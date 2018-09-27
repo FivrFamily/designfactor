@@ -18,12 +18,17 @@ namespace CustomerAPI.Controllers
                  new customer {
                      customerID = 1,
                      customerName = "Rajesh Ramamurthy",
-                     phoneNumber = "425-214-6510" 
+                     phoneNumber = "825-456-4561" 
                  },
                  new customer {
                      customerID = 2,
                      customerName = "Ramya Sitaraman",
-                     phoneNumber = "425-999-6510" 
+                     phoneNumber = "825-456-4562" 
+                 },
+                 new customer {
+                     customerID = 3,
+                     customerName = "Rohan Ramamurthy",
+                     phoneNumber = "825-456-4563" 
                  }
              };
          } 
